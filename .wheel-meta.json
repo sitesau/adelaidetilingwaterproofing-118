@@ -1,0 +1,22 @@
+{
+  "wheel_id": 849,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-118",
+  "project": "tiling-and-waterproofing-adelaide-suburb-guide-94196e0c2d7f5d05",
+  "parent_t1_ref": "adelaidetilingwaterproofing-158",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "tiling and waterproofing adelaide suburb guide",
+  "intended_url": "https://sites-e470-2.web.app/tiling-and-waterproofing-adelaide-suburb-guide-94196e0c2d7f5d05/",
+  "tier": "T2",
+  "writeback_nonce": "8be6bf34e644524e",
+  "links": [
+    {
+      "target_url": "http://tiling-and-waterproofing-adelaide-signs-you-need-ffcbda47781c07.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "more on tiling and waterproofing adelaide signs you need",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
